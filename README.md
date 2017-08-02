@@ -1,2 +1,2 @@
 # TestRepo
-This is for tesing git
+This is for testing git
